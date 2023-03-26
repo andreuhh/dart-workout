@@ -224,8 +224,6 @@ class Studente extends Persona{
   }
 } 
   
- 
-  
 void main() {  
   // Creating Object of class Docente 
   Docente docente = new Docente('Luca', 'Rossi', 'gafadrew452', 46); 
