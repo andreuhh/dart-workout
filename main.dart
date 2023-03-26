@@ -148,16 +148,6 @@ void main() {
 
 // Scrivi una classe Studenti che rappresenti le seguenti informazioni relative a uno studente e i get come sopra (che estende anch’essa la classe astratta): nome, cognome, età e codice.
 
-// Scrivi poi una classe Università, che rappresenti un insieme di docenti universitari tramite un array di tipo Docente e un insieme di studenti (array di studenti).
-
-// Inserisci nell’Univeristà i seguenti metodi: 
-// cercaDocentiByCodice
-// cercaDocentiByCognome
-// cercaStudentiByCodice
-// cercaStudenteByCognome
-// mediaEtàStudenti
-// mediaEtàDocenti
-
 abstract class Persona { 
   //declaring propreties  
   String? nome;
